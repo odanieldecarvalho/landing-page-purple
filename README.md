@@ -1,8 +1,8 @@
 # Landing Page Purple
 
-<h5>Não fala inglês? Leia em português: </h5>
+<h5>Não fala Inglês? <a href="https://github.com/odanieldecarvalho/Landing-Page-Purple/blob/main/README-pt.md">Clique aqui</a> para ver essa página em Português</h5>
 
-<h2>Features:
+<h2>Features:</h2>
 
 <h4>
     <ul>
